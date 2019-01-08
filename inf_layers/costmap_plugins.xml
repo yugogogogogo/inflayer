@@ -1,0 +1,5 @@
+<library path="lib/libinf_layer">
+  <class type="costmap_2d::InfLayer" base_class_type="costmap_2d::Layer">
+    <description>Demo</description>
+  </class>
+</library>
